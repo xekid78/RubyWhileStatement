@@ -1,0 +1,2 @@
+# RubyWhileStatement
+while文
